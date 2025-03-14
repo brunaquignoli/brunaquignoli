@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="165" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=rose&custom_title=Linguagens&border_radius=5"  
   />
 
