@@ -19,17 +19,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <div>
-  <a href="https://github.com/brunaquignoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=rose"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=rose&include_all_commits=true&count_private=true&locale=pt-br"
+  />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&theme=rose&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+    
+<img  
+  <div style="display: inline_block"><br>
+    <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  </div>
 
 
