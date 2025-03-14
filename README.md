@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   />
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&card_width=180&langs_count=16&theme=rose&custom_title=Linguagens&border_radius=5"  
