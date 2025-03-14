@@ -51,10 +51,4 @@ Here are some ideas to get you started:
   />
 
 </p>
-  
-<a href="https://github.com/brunaquignoli/brunaquignoli.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunaquignoli&repo=brunaquignoli.github.io&theme=rose" />
-</a>
-
-
 
