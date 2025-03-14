@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=rose&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8"
+    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=rose&include_all_commits=true&count_private=true&locale=pt-br&border_radius=5"
   />
 
 <img 
