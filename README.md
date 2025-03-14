@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 </p>
   
-<a
+<a href="https://github.com/brunaquignoli/brunaquignoli/blob/main/README.md">
   <img 
       align="center" 
       src="https://github-readme-stats.vercel.app/api/pin/?username=brunaquignoli&repo=github-readme-stats&theme=rose" />
