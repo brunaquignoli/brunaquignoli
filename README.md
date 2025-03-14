@@ -1,6 +1,7 @@
 ## 🎀 Bruna Quignoli
+ ### > estudante de engenharia de software aprendendo a programar e fazer documentação técnica.
 
-### Algumas formas de me contatar!
+### Algumas formas de me contactar!
 <br/>
 <div> 
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
