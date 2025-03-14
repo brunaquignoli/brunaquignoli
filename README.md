@@ -18,21 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=rose&include_all_commits=true&count_private=true&locale=pt-br"
-  />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=rose" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=9&theme=rose"  
   />
 
 </p>
