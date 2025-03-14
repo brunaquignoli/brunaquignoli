@@ -50,10 +50,8 @@ Here are some ideas to get you started:
   />
 
 </p>
-
-</p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunaquignoli&repo=github-readme-stats&theme=rose"/>
-</a>
   
-
+<a href="https://github.com/brunaquignoli/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunaquignoli&repo=github-readme-stats&theme=rose" />
+</a>
 
