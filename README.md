@@ -1,4 +1,4 @@
-## 🎀 Bruna Quignoli
+![image](https://github.com/user-attachments/assets/cdf55836-0913-45fb-b196-18c3e8449d3e)## 🎀 Bruna Quignoli
  ### > estudante de engenharia de software aprendendo a programar e fazer documentação técnica.
 
 ### Algumas formas de me contactar!
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8&bg_color=ffffff&text_color=OOOOOO&icon_color=ea779e&title_color=ea779e"
+    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8&bg_color=ffffff&text_color=eb789f&icon_color=eb789f&title_color=eb789f"
   />
 
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=dracula&custom_title=Linguagens&border_radius=5&bg_color=ffffff&text_color=ec92b1&icon_color=OOOOOO"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=dracula&custom_title=Linguagens&border_radius=5&bg_color=ffffff&text_color=eb789f&icon_color=eb789f"  
   />
 
 </p>
