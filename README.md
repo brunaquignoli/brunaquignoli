@@ -43,14 +43,14 @@ Here are some ideas to get you started:
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8&bg_color=f1b5ca&text_color=OOOOOO&icon_color=ea779e&title_color=ea779e"
+    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br&border_radius=8&bg_color=ffffff&text_color=OOOOOO&icon_color=ea779e&title_color=ea779e"
   />
 
 <img 
       align="center" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=dracula&custom_title=Linguagens&border_radius=5&bg_color=f4c8d7&text_color=ec92b1&icon_color=OOOOOO"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=dracula&custom_title=Linguagens&border_radius=5&bg_color=ffffff&text_color=ec92b1&icon_color=OOOOOO"  
   />
 
 </p>
