@@ -1,7 +1,8 @@
-## 🎀 Bruna Quignoli
- ### > estudante de engenharia de software aprendendo a programar e fazer documentação técnica.
 
-### Algumas formas de me contactar!
+<h2> 🎀 Bruna Quignoli </h2>
+ <h4> estudante de engenharia de software aprendendo a programar e fazer documentação técnica. </h4>
+
+<h5> Algumas formas de me contactar! </h5>
 <br/>
 <div> 
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,9 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#  
 ## Linguagens e estudos ^^
 
+<br/>
   <div style="display: inline_block"><br>
     <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
