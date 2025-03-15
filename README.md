@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cdf55836-0913-45fb-b196-18c3e8449d3e)## 🎀 Bruna Quignoli
+## 🎀 Bruna Quignoli
  ### > estudante de engenharia de software aprendendo a programar e fazer documentação técnica.
 
 ### Algumas formas de me contactar!
