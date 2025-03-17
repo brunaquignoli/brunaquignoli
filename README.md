@@ -1,6 +1,6 @@
 
 <h2> 🎀 Bruna Quignoli </h2>
- <h4> estudante de engenharia de software aprendendo a programar e fazer documentação técnica. </h4>
+ <h4> Estudante de engenharia de software aprendendo a programar e fazer documentação técnica. Embora ainda não tenha experiência profissional formal, desenvolvo projetos acadêmicos e pessoais que me permitem aplicar e aprimorar minhas habilidades e conhecimentos na área. </h4>
 
 <h5> Algumas formas de me contactar! </h5>
 <br/>
