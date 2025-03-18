@@ -2,6 +2,10 @@
 <h2> 🎀 Bruna Quignoli </h2>
  <h4> Estudante de engenharia de software aprendendo a programar e fazer documentação técnica. Embora ainda não tenha experiência profissional formal, desenvolvo projetos acadêmicos e pessoais que me permitem aplicar e aprimorar minhas habilidades e conhecimentos na área. </h4>
 
+ <h5> Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
+
+
+
 <h5> Algumas formas de me contactar! </h5>
 <br/>
 <div> 
