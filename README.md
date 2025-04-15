@@ -59,7 +59,7 @@ Here are some ideas to get you started:
       align="center" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"  
   />
 
 </p>
