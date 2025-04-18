@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 -->
 
 ## Linguagens e estudos ^^
-
-<br/>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
     <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
     <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
