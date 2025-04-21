@@ -8,15 +8,16 @@
 #
 
 <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
-<h5 align = "center"> Algumas formas de me contactar! / Some ways to contact me! </h5>
+
 
 <section align = "center"> 
-
+  <h5> Algumas formas de me contactar! / Some ways to contact me! </h5>
+ 
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <br/>
- <br/>
-  <h5> Linguagens e estudos: </h5>
+ <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
+
+ </br>
+  <h5> Linguagens e tecnologias que eu estou estudando ou me aprofundando: </h5>
   
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -48,21 +49,21 @@ Here are some ideas to get you started:
 #
 
 
-<p>
+<div align="center">
+  <br>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=omni&include_all_commits=true&count_private=true&locale=pt-br&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"
-  />
+   height="180" 
+   style="padding-right: 10px;" 
+   src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&theme=omni&include_all_commits=true&count_private=true&locale=pt-br&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
 
-<img 
-      align="justify" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"  
-  />
-</p>
+  <a>
+    <img 
+     height = "180"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
+  </a>
+</div>
+
+
+
 
 
