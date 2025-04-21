@@ -26,7 +26,7 @@
       <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   
   <br>
-  <img align="center" alt = "" height = "190px" src = "https://64.media.tumblr.com/f3f5910eb688b6f2424ee5df667ed032/70d3985c5176e57e-13/s540x810/efdf4b90522db4260a25514a0b5871b15ddbc099.gifv">
+  <img align="center" alt = "gif akane no computador" height = "190px" src = "src/gif.akane.webp">
 </div>
 
 <!--
