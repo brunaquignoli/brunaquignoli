@@ -5,28 +5,27 @@
 
  <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
 
-
 #
 
 <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
-<h5 align = "left"> Algumas formas de me contactar! / Some ways to contact me! </h5>
-<br/>
+<h5 align = "center"> Algumas formas de me contactar! / Some ways to contact me! </h5>
 
-<div align = "left"> 
+<section align = "center"> 
 
- <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+ <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <br/>
+ <br/>
   <h5> Linguagens e estudos: </h5>
   
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <img align="center" alt="MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+      <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
       
-</div>
+</section>
 
 <!--
 **brunaquignoli/brunaquignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -59,10 +58,10 @@ Here are some ideas to get you started:
   />
 
 <img 
-      align="center" 
+      align="justify" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f"  
   />
 </p>
 
