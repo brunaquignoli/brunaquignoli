@@ -9,10 +9,10 @@
 #
 
 <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
-<h5 align = "center"> Algumas formas de me contactar! / Some ways to contact me! </h5>
+<h5 align = "left"> Algumas formas de me contactar! / Some ways to contact me! </h5>
 <br/>
 
-<div align = "center"> 
+<div align = "left"> 
 
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
