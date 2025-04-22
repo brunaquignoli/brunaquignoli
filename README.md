@@ -54,9 +54,9 @@
 
 
 <h1> </h1>
-<img align="left" alt="quartinho rosa da hello kitty" height="auto" src="src/chihiro.gif">
+<img align="left" alt="quartinho rosa da hello kitty" height="100%" src="src/chihiro.gif">
 
-<p align = "justify" >
+<p align = "right" >
   <a href="https://open.spotify.com/user/ut5ybcq14zw4uskw6zfc06yt9?si=6391d71902e44c84">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ut5ybcq14zw4uskw6zfc06yt9&count=4"  />
   </a>
