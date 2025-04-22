@@ -5,7 +5,7 @@
 
  <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
 
-#
+<h1> </h1>
 
 <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
 
@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 
 
 
+<h1>  </h1>
 
-#
 
 
 <div align="center">
