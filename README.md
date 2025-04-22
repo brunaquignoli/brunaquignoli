@@ -28,23 +28,6 @@
       
 </section>
 
-<!--
-**brunaquignoli/brunaquignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h1>  </h1>
 
 
@@ -63,8 +46,19 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<h1> </h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<h1> </h1>
+<img align="left" alt="quartinho rosa da hello kitty" height="130px" src="src/chihiro.gif">
+
+<p align = right>
+  <a href="https://open.spotify.com/user/ut5ybcq14zw4uskw6zfc06yt9?si=6391d71902e44c84">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ut5ybcq14zw4uskw6zfc06yt9&count=2"  />
+  </a>
