@@ -54,9 +54,17 @@
 
 
 <h1> </h1>
-<img align="left" alt="quartinho rosa da hello kitty" height="70%" src="src/chihiro.gif">
 
-<p align = "right" >
-  <a href="https://open.spotify.com/user/ut5ybcq14zw4uskw6zfc06yt9?si=6391d71902e44c84">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ut5ybcq14zw4uskw6zfc06yt9&count=4"  />
-  </a>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img alt="quartinho rosa da hello kitty" src="src/chihiro.gif" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <a href="https://open.spotify.com/user/ut5ybcq14zw4uskw6zfc06yt9?si=6391d71902e44c84">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ut5ybcq14zw4uskw6zfc06yt9&count=3" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
