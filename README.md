@@ -40,7 +40,7 @@
   <a>
     <img 
      height = "180"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&custom_title=Linguagens&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&theme=omni&border_radius=6&locale=pt-br&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
   </a>
 </div>
 
