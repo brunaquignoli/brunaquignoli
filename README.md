@@ -1,4 +1,3 @@
-
 <h2> Olá! 🎀 Bruna Quignoli </h2>
 
  <h4 align = "center"> 👩🏼‍💻 Estudante de engenharia de software aprendendo a programar e fazer documentação técnica. Embora ainda não tenha experiência profissional formal, desenvolvo projetos acadêmicos e pessoais que me permitem aplicar e aprimorar minhas habilidades e conhecimentos na área. </h4>
@@ -11,7 +10,7 @@
 
 
 <section align = "center"> 
-  <h5> Algumas formas de me contactar! / Some ways to contact me! </h5>
+  <h5> Algumas formas de me contatar! / Some ways to contact me! </h5>
  
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
