@@ -10,13 +10,13 @@
 
 
 <section align = "center"> 
-  <h5> Algumas formas de me contatar! / Some ways to contact me! </h5>
+  <h5> . • ° ♡ Algumas formas de me contatar! / Some ways to contact me! ♡ ° • . </h5>
  
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 
  </br>
-  <h5> Linguagens e tecnologias que eu estou estudando ou me aprofundando: </h5>
+  <h5> . • ° ♡ Linguagens e tecnologias que eu estou estudando ou me aprofundando: ♡ ° • .  </h5>
   
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
