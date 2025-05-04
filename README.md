@@ -1,7 +1,5 @@
 <h2> Olá! 🎀 Bruna Quignoli </h2>
 
- <h4 align = "center"> 👩🏼‍💻 Estudante de engenharia de software aprendendo a programar e fazer documentação técnica. Embora ainda não tenha experiência profissional formal, desenvolvo projetos acadêmicos e pessoais que me permitem aplicar e aprimorar minhas habilidades e conhecimentos na área. </h4>
-
  <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
 
 <h1> </h1>
@@ -10,13 +8,13 @@
 
 
 <section align = "center"> 
-  <h5> . • ° ♡ Algumas formas de me contatar! / Some ways to contact me! ♡ ° • . </h5>
+  <h5> . • ° ♡ Some ways to contact me! ♡ ° • . </h5>
  
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 
  </br>
-  <h5> . • ° ♡ Linguagens e tecnologias que eu estou estudando: ♡ ° • .  </h5>
+  <h5> . • ° ♡ Languages ​​and technologies I am studying: ♡ ° • .  </h5>
   
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
