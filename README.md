@@ -3,11 +3,9 @@
  <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
 
 <h1> </h1>
-
-<img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
 <section align = "center"> 
+ <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp"> 
  <h5> . • ° ♡ Some ways to contact me! ♡ ° • . </h5>
-
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 
@@ -29,10 +27,7 @@
     <img alt="POSTGREE" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
     <img alt="PYTHON" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>  
-
-
-
-<h1>  </h1>
+<h2> </h2>
 
 <div align="center">
   <br>
