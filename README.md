@@ -5,40 +5,32 @@
 <h1> </h1>
 
 <img align="right" alt = "gif akane no computador" height = "200px" src = "src/gif.akane.webp">
-
-
 <section align = "center"> 
-  <h5> . • ° ♡ Some ways to contact me! ♡ ° • . </h5>
- 
+ <h5> . • ° ♡ Some ways to contact me! ♡ ° • . </h5>
+
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
 
- </br>
   <h5> . • ° ♡ Languages ​​and technologies I am studying: ♡ ° • .  </h5>
-    <img alt="JSON" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
+</section>
+ <div align="center">
+<img alt="JSON" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
     <img alt="POSTMAN" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">  
-   <img alt="JAVA" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img alt="JAVA" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img alt="TOMCAT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg">
     <img alt="SpringBoot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
     <img alt="NODEJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
-    <img alt="JAVASCRIPT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  </div>
+<div align="center">
+ <img alt="JAVASCRIPT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
     <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img alt="POSTGREE" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg">
     <img alt="PYTHON" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   </div>  
 
 
-
-        
-          
-
-          
-      
-          
-      
-      
-</section>
 
 <h1>  </h1>
 
