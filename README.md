@@ -51,25 +51,4 @@
 
 <h1> </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brunaquignoli/brunaquignoli/output/pacman-contribution-graph.svg">
-</picture>
-
-
-<h1> </h1>
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img alt="quartinho rosa da hello kitty" src="src/chihiro.gif" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <a href="https://open.spotify.com/user/ut5ybcq14zw4uskw6zfc06yt9?si=6391d71902e44c84">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ut5ybcq14zw4uskw6zfc06yt9&count=3" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
 
