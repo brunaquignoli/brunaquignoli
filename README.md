@@ -49,7 +49,3 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
   </a>
 </div>
-
-<h1> </h1>
-
-
