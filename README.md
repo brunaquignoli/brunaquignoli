@@ -5,7 +5,7 @@
 <h1> </h1>
 <section align = "center"> 
 
- <img align="right" alt = "gif akane no computador" height = "200px" src ="https://github.com/user-attachments/assets/e0d6b912-0412-4dc0-b661-ee6bd055de9a" > 
+ <img align="right" alt = "gif akane no computador" height = "200px" src = "https://github.com/user-attachments/assets/2bad7728-cd5a-49d4-839c-c79a7dd1eebe"> 
  <h5> . • ° ♡ Some ways to contact me! ♡ ° • . </h5>
  <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> 
