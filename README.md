@@ -41,6 +41,6 @@
    height="170" 
    style="padding-right: 10px;" 
    src="https://github-readme-stats.vercel.app/api?username=brunaquignoli&show_icons=true&border_radius=5&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f" alt="GitHub stats">
- <img height = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&langs_count=16&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
+ <img height = "190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=compact&border_radius=6&bg_color=fadce6&text_color=eb789f&icon_color=eb789f&title_color=eb789f&card_width=290"" alt="Most Used Languages">
   
 </div>
