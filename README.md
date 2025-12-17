@@ -1,6 +1,6 @@
 <h2> Olá! 🎀 Bruna Quignoli </h2>
 
- <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student who is learning how to program and create technical documentation. I don't have any professional experience yet, but I'm working on some academic and personal projects that allow me to apply and improve my skills and knowledge in the field! </h5>
+ <h5 align = "center" > 🖥️ Hi! I'm Bruna, a Brazilian Software Engineering student learning to program and create technical documentation. I'm an intern on the Engineering team at Hughes and I'm always looking to improve my skills and knowledge in the field! </h5>
 
 <h1> </h1>
 <section align = "center"> 
