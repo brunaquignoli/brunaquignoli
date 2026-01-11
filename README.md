@@ -12,6 +12,7 @@
 
   <h5> . • ° ♡ Languages ​​and technologies I am studying: ♡ ° • .  </h5>
 </section>
+
  <div align="center">
  <img alt="JAVA" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
