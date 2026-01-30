@@ -54,7 +54,7 @@
 </div>
   </td>
     <td>
-      <img height="250px" src="https://github.com/user-attachments/assets/2bad7728-cd5a-49d4-839c-c79a7dd1eebe">
+      <img height="200px" src="https://github.com/user-attachments/assets/2bad7728-cd5a-49d4-839c-c79a7dd1eebe">
     </td>
   </tr>
 </table>
