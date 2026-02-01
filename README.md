@@ -5,21 +5,6 @@
   <a href="https://instagram.com/brubsriv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/brunaquignoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<!--
-**brunaquignoli/brunaquignoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 #  
 ## Linguagens e estudos ^^
 
@@ -46,7 +31,7 @@ Here are some ideas to get you started:
       align="left" 
       alt="GitHub Stats" 
       height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=rose&custom_title=Linguagens&border_radius=8"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunaquignoli&layout=donut&langs_count=16&theme=rose&custom_title=Linguagens&border_radius=5"  
   />
 
 </p>

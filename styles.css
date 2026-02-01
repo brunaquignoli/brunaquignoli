@@ -1,0 +1,27 @@
+body {
+    background-image: url(Screenshot\ 2026-01-30\ 203417.png);
+    background-size: cover;
+}
+
+.telatoda {
+    padding-left: 5px;
+    padding-top: 120px;
+
+    img {
+        padding: 10px;
+    }
+
+    .itens {
+        display: flex;
+
+        .item {
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}
+
+h3 {
+    color: rgba(255, 255, 255, 0.712);
+}
+
