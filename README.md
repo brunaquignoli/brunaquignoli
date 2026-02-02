@@ -8,7 +8,7 @@ I'm an intern on the Engineering team at Hughes and I'm always looking to improv
 <p align="center">
   <img src="src/Untitledvideo-MadewithClipchamp1-ezgif.com-video-to-gif-converter.gif" width="550">
 </p>
-<h4 align="center"> ────────────────────୨ৎ──────────────────── </h4>
+<h4 align="center"> ────────────୨ৎ──────────── </h4>
 <br>
 <p align="center">
   <img height="450px" src="https://github.com/user-attachments/assets/2bad7728-cd5a-49d4-839c-c79a7dd1eebe">
