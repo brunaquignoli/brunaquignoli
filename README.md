@@ -19,9 +19,5 @@ I'm an intern on the Engineering team at Hughes and I'm always looking to improv
 <p align="center">
   <a href="https://www.linkedin.com/in/brunaquignoli" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
-  <a href="https://instagram.com/brubsriv" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </p>
 
